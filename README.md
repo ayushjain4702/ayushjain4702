@@ -31,7 +31,7 @@
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/ayushjain4702)](https://github.com/ayushjain4702)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/ayushjain4702)](https://github.com/ayushjain4702)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/ayushjain4702)](https://gitlab.com/ayushjain4702) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/ayushjain4702)](https://github.com/ayushjain4702) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ayushjain4702)](https://github.com/ayushjain4702) 
 
 ⭐️ From [@ayushjain4702](https://github.com/ayushjain4702)
