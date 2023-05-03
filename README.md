@@ -34,8 +34,9 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/ayushjain4702)](https://github.com/ayushjain4702) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ayushjain4702)](https://github.com/ayushjain4702) 
 
-<br>
-## My GitHub Stats(Only Public Contributions 😑) 
+<br/>
+<br/>
+<br/>
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=ayushjain4702&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 
